@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d06660d9-5699-4d7e-b73a-c2c1040edbea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/scrollUp/pill.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/scrollUp/pill.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="d06660d9-5699-4d7e-b73a-c2c1040edbea" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,8 +74,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="555" />
-    <option name="y" value="1050" />
+    <option name="x" value="390" />
+    <option name="y" value="617" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -143,7 +139,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="555" y="1050" width="1400" height="1000" extended-state="0" />
+    <frame x="390" y="617" width="1400" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
