@@ -14,7 +14,7 @@
 	"use strict";
 
 	var H = $("html"),
-		W = $(window),
+		W = $(windowsf),
 		D = $(document),
 		F = $.fancybox = function () {
 			F.open.apply( this, arguments );
